@@ -7,3 +7,17 @@
   width: 40%;
   height: 200px;
 }
+
+.cur {
+  font-size: 10vw;
+}
+
+.button {
+  width: 10%;
+  height: 40px;
+  margin: 5%;
+}
+
+.list {
+  list-style-type: none;
+}
