@@ -1,0 +1,9 @@
+.user_block {
+  display: flex;
+  justify-content: center;
+}
+
+.description {
+  width: 40%;
+  height: 200px;
+}
